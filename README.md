@@ -1,4 +1,12 @@
 # Getting Started with Create React App
+My first react app.
+This is some kind of like blog site but not acctually blog site.
+This for one of my friend #usman who is passionate about social welfare.
+He wrote something and I put that online for public.
+Main content of site that is images and logos and columns and 'Mahnamazzz' are written by him.
+Once I have deployed it on digital ocean and it remained publically accessible for period of one month
+than I removed it from production.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
